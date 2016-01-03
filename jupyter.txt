@@ -1,0 +1,4 @@
+First line
+2nd line
+magic function, will only work in jupyter 
+and we must enter file body otherwise it will throw error
